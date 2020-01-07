@@ -177,4 +177,4 @@ static void event_handler(lv_obj_t * obj, lv_event_t event)
 #效果如如下
 
 
-![1578392140568.gif](C:\Users\leaf\Desktop\littlevGL STM32F4\6769622-be9f3e1ce0730deb.gif)
+![1578392140568.gif](C:\Users\leaf\Desktop\littlevGL STM32F4\6769622-be9f3e1ce0730deb-1578393428329.gif)
